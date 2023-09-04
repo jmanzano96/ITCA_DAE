@@ -1,0 +1,14 @@
+C:\Users\PC1\source\repos\EV1_JM_DAE\obj\Debug\net7.0\EV1_JM_DAE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\source\repos\EV1_JM_DAE\obj\Debug\net7.0\EV1_JM_DAE.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\EV1_JM_DAE\obj\Debug\net7.0\EV1_JM_DAE.AssemblyInfo.cs
+C:\Users\PC1\source\repos\EV1_JM_DAE\obj\Debug\net7.0\EV1_JM_DAE.csproj.CoreCompileInputs.cache
+C:\Users\PC1\source\repos\EV1_JM_DAE\bin\Debug\net7.0\EV1_JM_DAE.exe
+C:\Users\PC1\source\repos\EV1_JM_DAE\bin\Debug\net7.0\EV1_JM_DAE.deps.json
+C:\Users\PC1\source\repos\EV1_JM_DAE\bin\Debug\net7.0\EV1_JM_DAE.runtimeconfig.json
+C:\Users\PC1\source\repos\EV1_JM_DAE\bin\Debug\net7.0\EV1_JM_DAE.dll
+C:\Users\PC1\source\repos\EV1_JM_DAE\bin\Debug\net7.0\EV1_JM_DAE.pdb
+C:\Users\PC1\source\repos\EV1_JM_DAE\obj\Debug\net7.0\EV1_JM_DAE.dll
+C:\Users\PC1\source\repos\EV1_JM_DAE\obj\Debug\net7.0\refint\EV1_JM_DAE.dll
+C:\Users\PC1\source\repos\EV1_JM_DAE\obj\Debug\net7.0\EV1_JM_DAE.pdb
+C:\Users\PC1\source\repos\EV1_JM_DAE\obj\Debug\net7.0\EV1_JM_DAE.genruntimeconfig.cache
+C:\Users\PC1\source\repos\EV1_JM_DAE\obj\Debug\net7.0\ref\EV1_JM_DAE.dll

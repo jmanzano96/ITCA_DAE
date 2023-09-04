@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EV1_JM_DAE/1.0.0": {
+        "runtime": {
+          "EV1_JM_DAE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EV1_JM_DAE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
